@@ -17,19 +17,21 @@ There’s always that little voice telling you that you should work out, but wha
 * **Goals:** add up to 3 goals and update with percentage complete?
 
 ### Technologies
-Java 8
-Spring MVC
-Gradle
-Thymeleaf
-JavaScript
-MongoDB
+* Java 8
+* Spring MVC
+* Gradle
+* Thymeleaf
+* Bootstrap
+* JavaScript
+* MongoDB
 
 ### What I'll Have to Learn
-User uploads & image cropping (Croppie.js)
-Manipulate image?
-Tracking time between workouts for appropriate reminders
-Github Pages
-MongoDB
+* User uploads & image cropping (Croppie.js)
+* Manipulate image?
+* Tracking time between workouts for appropriate reminders
+* Github Pages
+* MongoDB
+* Pagination
 
 ### Project Tracker
 https://trello.com/b/wjwde9Sk/liftoff
