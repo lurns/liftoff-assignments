@@ -14,7 +14,8 @@ There’s always that little voice telling you that you should work out, but wha
 * **Profile picture:** this will be used with speech bubbles as self-motivation
 * **Track workouts:** user input type of workout and time spent
 * **Reminders:** remind users after x amount of time since last workout
-* **Goals:** add up to 3 goals and update with percentage complete?
+* **Goal:** users can set an amount of workouts they would like to complete each week, 
+and view how close they are to achieving that goal.
 
 ### Technologies
 * Java 8
