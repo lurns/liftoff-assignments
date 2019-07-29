@@ -33,6 +33,7 @@ and view how close they are to achieving that goal.
 * Github Pages
 * MongoDB
 * Pagination
+* Storing/removing sessions
 
 ### Project Tracker
 https://trello.com/b/wjwde9Sk/liftoff
