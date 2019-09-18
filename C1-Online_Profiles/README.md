@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-[Github](github.com/lurns)
+[Github](https://github.com/lurns)
  
 ### LinkedIn
 [LinkedIn](https://www.linkedin.com/in/lauren-lee-753937bb/)
